@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         QQ middlem pfurl redirect
 // @match        *://c.pc.qq.com/middlem.html*
-// @run-at       document-start
 // ==/UserScript==
 
 (function () {
